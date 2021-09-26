@@ -1,7 +1,7 @@
 [![Header](https://github.com/matejske/matejske/blob/main/Git_profile_pic.jpg)]()
 
 ## About me
-Masters in Finance student at the London School of Economics interested in quantitative finance, data science and implementing sophisticated trading algorithms. 
+Master's in Finance student at the London School of Economics interested in quantitative finance, data science and implementing sophisticated trading algorithms. 
 
 Currently exploring various career opportunities.
 
