@@ -26,3 +26,6 @@ Currently exploring various career opportunities.
 -  CSS
 -  LaTeX
 -  Mathematica
+
+
+##### Please be aware that many repositories are kept private.
