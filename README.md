@@ -28,4 +28,4 @@ Currently exploring various career opportunities.
 -  Mathematica
 
 
-##### Please be aware that many repositories are kept private.
+#### Please note that many repositories are kept private.
