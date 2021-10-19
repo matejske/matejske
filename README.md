@@ -1,4 +1,4 @@
-[![Header](https://github.com/matejske/matejske/blob/main/Git_profile_pic.jpg)]()
+[![Header](https://github.com/matejske/matejske/blob/main/Git_profile_picture.jpg)]()
 
 ## About me
 Master's in Finance student at the London School of Economics interested in quantitative finance, data science and implementing sophisticated trading algorithms. 
