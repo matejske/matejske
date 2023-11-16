@@ -1,9 +1,10 @@
 [![Header](https://github.com/matejske/matejske/blob/main/Git_profile_picture.jpg)]()
 
 ## About me
-Research Fellow at University of California, Berkeley.
 
-Master's in Finance graduate from the London School of Economics interested in quantitative finance, data science and implementing sophisticated trading algorithms. 
+Asset Management Analyst (Quantitative Research & Data Science) at Generali Investments.
+
+Master's in Finance graduate from the London School of Economics interested in quantitative finance, data science and implementing sophisticated trading algorithms. Ex Research Fellow at University of California, Berkeley.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matej-skerlep/)
 
